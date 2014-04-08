@@ -1,8 +1,9 @@
 Agile-Policy-Making
 ===================
 
-##Overview
-Agile Policy Making was created to answer three important questions (Room, 2011, p. 5):
+###Overview
+
+Agile Policy-Making was created to answer three important questions (Room, 2011, p. 5):
 +“How can public policy-makers make good decisions?”
 +“What counts as a good decision?”
 +“And having made it, how can they check just how good it turned out to be?”
@@ -11,5 +12,12 @@ Policymakers today have unprecedented access to huge amounts of complex data (mu
 
 In my work and research, I have blended Dr. Room’s Agile Policy Toolkit with current advances in Big Data and Data Science to produce “Agile Predictive Policy Analysis” (APPA).  The advantage of this model is that it not only provides a deeper understanding of the current policy area but also methods to better predict the impacts of proposed policies. APPA uses both traditional statistical methods and cutting-edge “New Analytical Tools” to create a more complete picture of the policy landscape and the organizations in that landscape. 
 
-Related to APPA are “Organizational Health” and “Adaptive Case Management.” Organizational health became an important component of APPA because the success of policymaking and implementation depends on how well an agency can align its people, processes, and technology to meet strategic goals and carry out policies.  Because processes are how the agency’s work is done (with support from people and technology), it was important to find a business process approach that also incorporates complexity theory and modern social networking techniques to fit into the dynamic policy landscape. That is why adaptive case management was chosen as a complementary research area.
+Related to APPA are “Organizational Health,” “Network Health,” and “Adaptive Case Management.” Organizational health became an important component of APPA because the success of policymaking and implementation depends on how well an agency can align its people, processes, and technology to meet strategic goals and carry out policies. Network health is like organizational health in that it examines the effectiveness of cross-organizational policy networks as agencies and other organizations interact on the fitness landscape. 
+
+Finally, because processes are how the agency’s work is done (with support from people and technology), it was important to find a business process approach that also incorporates complexity theory and modern social networking techniques to fit into the dynamic policy landscape. That is why adaptive case management was chosen as a complementary research area.
+	 
+Reference:  Room, G. (2011). Complexity, institutions, and public policy: Agile decision-making in a turbulent world. 
+
+
+
 
